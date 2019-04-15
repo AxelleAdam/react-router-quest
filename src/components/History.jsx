@@ -4,7 +4,7 @@ class History extends Component {
     render() {
         return (
             <div>
-              <p className="navigation">Notre Histoire</p>
+              <p>Notre Histoire</p>
             </div>
         );
     }
